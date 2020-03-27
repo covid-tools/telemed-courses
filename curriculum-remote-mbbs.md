@@ -7,7 +7,7 @@
 3. ICD and Snowmed CT based coding practice
 
 
-Curriculum as per the following spectrum :
+Let's classify and update the curriculum on the basis of our regular medical procedure as below : 
 
 History 
 
