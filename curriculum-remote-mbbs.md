@@ -6,7 +6,7 @@
 2. Use of online DICOM viewers to access medical images
 3. ICD and Snowmed CT based coding practice
 
-Note: Kindly follow MoHFW guidelines
+Note: Kindly follow MoHFW guidelines (pls see https://mohfw.gov.in )
 
 Let's classify and update the curriculum on the basis of our regular medical procedure as below : 
 
