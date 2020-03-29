@@ -1,5 +1,6 @@
 ## Curriculum for training medical professionals (MBBS qualified or above) in tools and methods of telemedicine
 
+Distributed under CC-SA
 
 (Kindly serially update the curriculum below).
 1. Use of FHIR based Electronic Health Record Systems (EMR,EHR,PHR)
